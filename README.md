@@ -2,8 +2,10 @@
 
 # Simon game With Jest Testing
 
+## Live link is here - [Simon game](https://cam-4587.github.io/Simon_game_Jest_Walkthrough/)
 
 ![](docs/simon_game.png)
+- This is a walkthrough project from the Code Institute's Full stack development course. It looks to create a game using **JEST** to follow Test Driven development principles.
 
 - This game is based on the Electronic Simon game from the 1980s.
 
